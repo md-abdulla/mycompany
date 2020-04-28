@@ -1,0 +1,408 @@
+@media(max-width: 1199px) {
+    .bannertext h2 {
+    margin: 0;
+    padding: 0;
+    font-size: 20px !important;
+}
+#services h1 {
+    color: #373A4F;
+    font-size: 20px !important;
+    text-align: center;
+}
+.allitems {
+    width: 100% !important;
+    margin: 0 auto;
+}
+.webtype {
+    width: 33.33% !important;
+    float: left;
+    box-sizing: border-box;
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-top: 1%;
+}
+#whyus h1 {
+    color: #373A4F;
+    font-size: 20Px !important;
+}
+#whyus span {
+    color: #979FA9;
+    font-size: 15px !important;
+}
+#whyus ul li {
+    padding: 1%;
+    font-size: 15px !important;
+    color: #979FA9;
+}
+#resentwork h1 {
+    text-align: center;
+    color: #1057A6;
+    font-size: 20px !important;
+}
+.swiper-slide {
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 36% !important;
+    height: 90% !important;
+    background: #00000080;
+}
+#about {
+    float: left;
+    width: 100%;
+    height: auto !important;
+    background: #E7F6FD;
+}
+#about h1 {
+    text-align: center;
+    color: #373A4F;
+    font-size: 20px !important;
+}
+#about .col-2 {
+    width: 50% !important;
+    float: left;
+    padding: 5%;
+    box-sizing: border-box;
+    position: relative;
+}
+.image {
+    width: 180px;
+    height: 259px !important;
+}
+.text {
+    color: white;
+    font-size: 12px !important;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+footer {
+    height: auto !important;
+    float: left;
+    background-size: cover;
+    width: 100%;
+    background: url(../img/map.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: #F6F6F6;
+}
+footer .col-3 {
+    float: left;
+    width: 33.33% !important;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+}
+
+@media(max-width: 991px) {
+
+    .bannertext h2 {
+    margin: 0;
+    padding: 0;
+    font-size: 20px !important;
+}
+#services h1 {
+    color: #373A4F;
+    font-size: 20px !important;
+    text-align: center;
+}
+.allitems {
+    width: 100% !important;
+    margin: 0 auto;
+}
+.webtype {
+    width: 50% !important;
+    float: left;
+    box-sizing: border-box;
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-top: 1%;
+}
+#whyus h1 {
+    color: #373A4F;
+    font-size: 20Px !important;
+}
+#whyus span {
+    color: #979FA9;
+    font-size: 15px !important;
+}
+#whyus ul li {
+    padding: 1%;
+    font-size: 15px !important;
+    color: #979FA9;
+}
+#resentwork h1 {
+    text-align: center;
+    color: #1057A6;
+    font-size: 20px !important;
+}
+.swiper-slide {
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 36% !important;
+    height: 90% !important;
+    background: #00000080;
+}
+#about {
+    float: left;
+    width: 100%;
+    height: auto !important;
+    background: #E7F6FD;
+}
+#about h1 {
+    text-align: center;
+    color: #373A4F;
+    font-size: 20px !important;
+}
+#about .col-2 {
+    width: 100% !important;
+    float: left;
+    padding: 5%;
+    box-sizing: border-box;
+    position: relative;
+}
+.image {
+    width: 180px;
+    height: 259px !important;
+}
+.text {
+    color: white;
+    font-size: 12px !important;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+footer {
+    height: auto !important;
+    float: left;
+    background-size: cover;
+    width: 100%;
+    background: url(../img/map.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: #F6F6F6;
+}
+footer .col-3 {
+    float: left;
+    width: 100% !important;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+}
+
+@media(max-width: 767px) {
+
+    .bannertext h2 {
+    margin: 0;
+    padding: 0;
+    font-size: 20px !important;
+}
+#services h1 {
+    color: #373A4F;
+    font-size: 20px !important;
+    text-align: center;
+}
+.allitems {
+    width: 100% !important;
+    margin: 0 auto;
+}
+.webtype {
+    width: 50% !important;
+    float: left;
+    box-sizing: border-box;
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-top: 1%;
+}
+#whyus h1 {
+    color: #373A4F;
+    font-size: 20Px !important;
+}
+#whyus span {
+    color: #979FA9;
+    font-size: 15px !important;
+}
+#whyus ul li {
+    padding: 1%;
+    font-size: 15px !important;
+    color: #979FA9;
+}
+#resentwork h1 {
+    text-align: center;
+    color: #1057A6;
+    font-size: 20px !important;
+}
+.swiper-slide {
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 50% !important;
+    height: 90% !important;
+    background: #00000080;
+}
+#about {
+    float: left;
+    width: 100%;
+    height: auto !important;
+    background: #E7F6FD;
+}
+#about h1 {
+    text-align: center;
+    color: #373A4F;
+    font-size: 20px !important;
+}
+#about .col-2 {
+    width: 100% !important;
+    float: left;
+    padding: 5%;
+    box-sizing: border-box;
+    position: relative;
+}
+.image {
+    width: 180px;
+    height: 259px !important;
+}
+.text {
+    color: white;
+    font-size: 12px !important;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+footer {
+    height: auto !important;
+    float: left;
+    background-size: cover;
+    width: 100%;
+    background: url(../img/map.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: #F6F6F6;
+}
+footer .col-3 {
+    float: left;
+    width: 100% !important;
+    padding: 10px;
+    box-sizing: border-box;
+}
+   
+}
+
+@media(max-width: 575px) {
+    
+    .companyinfo {
+    width: 140% !important;
+    float: left;
+    text-align: right;
+    background: white;
+    border-bottom: 2px solid #2A55AB;
+    padding-bottom: 1%;
+}
+.banner {
+    background-image: url(../img/banner.jpg);
+    width: 140% !important;
+    height: 50vh !important;
+    background-size: cover;
+    float: left;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.bannertext h2 {
+    margin: 0;
+    padding: 0;
+    font-size: 20px !important;
+}
+#services {
+    float: left;
+    width: 140% !important;
+    margin-bottom: 10%;
+}
+#services h1 {
+    color: #373A4F;
+    font-size: 25px !important;
+    text-align: center;
+}
+.webtype {
+    width: 100% !important;
+    float: left;
+    box-sizing: border-box;
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-top: 1%;
+    padding-bottom: 10% !important;
+}
+#whyus {
+    background: #EAF6FE;
+    float: left;
+    width: 140% !important;
+}
+#whyus .col-2 {
+    width: 100% !important;
+    float: left;
+    padding: 5%;
+    box-sizing: border-box;
+}
+
+#resentwork {
+    float: left;
+    width: 140% !important;
+    background: url(../img/about.jpg);
+    height: 70vh;
+    border-bottom: 2px solid #2A55AB;
+    border-top: 2px solid #2A55AB;
+    background-size: cover;
+}
+
+.swiper-slide {
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 50% !important;
+    height: 86% !important;
+    background: #00000080;
+}
+.swiper-slide img {
+    padding-top: 25%;
+    padding-left: 8%;
+    width: 180px !important;
+}
+
+#about {
+    float: left;
+    width: 140% !important ;
+    height: auto !important;
+    background: #E7F6FD;
+}
+#about .col-2 {
+    width: 100% !important;
+    float: left;
+    padding: 5%;
+    box-sizing: border-box;
+    position: relative;
+}
+footer {
+    height: auto !important;
+    float: left;
+    background-size: cover;
+    width: 140% !important;
+    background: url(../img/map.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: #F6F6F6;
+}
+footer .col-3 {
+    float: left;
+    width: 100% !important;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+}
